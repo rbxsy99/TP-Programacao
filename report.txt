@@ -1,0 +1,57 @@
+Report: Simulacao do Modelo de Propagacao do Virus
+
+-Espacos-
+ID:20 	Capacidade:2 
+ID:2 	Capacidade:10 
+ID:10 	Capacidade:10 
+ID:30 	Capacidade:10 
+ID:6 	Capacidade:10 
+ID:4 	Capacidade:50 
+
+-Pessoas-
+Nome:PauloPires1 
+   Idade:23 Estado:S Dias:0 Espaco:4 
+Nome:SofiaA 
+   Idade:23 Estado:S Dias:0 Espaco:20 
+Nome:Tomas111 
+   Idade:12 Estado:I Dias:0 Espaco:2 
+Nome:PauloPires2 
+   Idade:67 Estado:D Dias:10 Espaco:30 
+Nome:MarcoMarquesAAA 
+   Idade:40 Estado:I Dias:0 Espaco:6 
+Nome:Zulmira2A 
+   Idade:17 Estado:S Dias:0 Espaco:20 
+Nome:Olivia1 
+   Idade:12 Estado:S Dias:0 Espaco:6 
+Nome:SamuelSimoes 
+   Idade:56 Estado:D Dias:1 Espaco:4 
+Nome:SandraS 
+   Idade:56 Estado:D Dias:1 Espaco:6 
+Nome:HugoA 
+   Idade:20 Estado:D Dias:3 Espaco:4 
+Nome:HugoB 
+   Idade:25 Estado:D Dias:10 Espaco:2 
+Nome:HugoC 
+   Idade:14 Estado:D Dias:5 Espaco:6 
+Nome:Carlos1 
+   Idade:20 Estado:D Dias:3 Espaco:6 
+Nome:CarlaCardoso 
+   Idade:34 Estado:D Dias:7 Espaco:6 
+Nome:SandraMotaA1 
+   Idade:24 Estado:S Dias:0 Espaco:4 
+Nome:PedroPedra 
+   Idade:27 Estado:S Dias:0 Espaco:30 
+Nome:DianaD 
+   Idade:89 Estado:S Dias:0 Espaco:4 
+Nome:TobiasF 
+   Idade:98 Estado:S Dias:0 Espaco:30 
+Nome:LeonardoL 
+   Idade:10 Estado:S Dias:0 Espaco:4 
+
+Taxa de Saudaveis:47.4 %
+Taxa de Doentes:42.1 %
+Taxa de Imunes:10.5 %
+Total de Pessoas analisadas:19
+Total de Iteracoes Realizadas:0
+
+Desenvolvido por Ruben Almeida 2019130955 - ISEC 2019/20
